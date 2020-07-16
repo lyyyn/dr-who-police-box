@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dr-who-police-box/static/css/main.d9e1baed.chunk.css",
+    "main.js": "/dr-who-police-box/static/js/main.52e69cda.chunk.js",
+    "main.js.map": "/dr-who-police-box/static/js/main.52e69cda.chunk.js.map",
+    "runtime-main.js": "/dr-who-police-box/static/js/runtime-main.148a190a.js",
+    "runtime-main.js.map": "/dr-who-police-box/static/js/runtime-main.148a190a.js.map",
+    "static/js/2.9ddc7e7f.chunk.js": "/dr-who-police-box/static/js/2.9ddc7e7f.chunk.js",
+    "static/js/2.9ddc7e7f.chunk.js.map": "/dr-who-police-box/static/js/2.9ddc7e7f.chunk.js.map",
+    "index.html": "/dr-who-police-box/index.html",
+    "precache-manifest.d5312453a2fc15095b8e5d7852b010ca.js": "/dr-who-police-box/precache-manifest.d5312453a2fc15095b8e5d7852b010ca.js",
+    "service-worker.js": "/dr-who-police-box/service-worker.js",
+    "static/css/main.d9e1baed.chunk.css.map": "/dr-who-police-box/static/css/main.d9e1baed.chunk.css.map",
+    "static/js/2.9ddc7e7f.chunk.js.LICENSE.txt": "/dr-who-police-box/static/js/2.9ddc7e7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.148a190a.js",
+    "static/js/2.9ddc7e7f.chunk.js",
+    "static/css/main.d9e1baed.chunk.css",
+    "static/js/main.52e69cda.chunk.js"
+  ]
+}
